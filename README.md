@@ -30,26 +30,6 @@ Transformando ideias, café e alguns bugs em projetos reais. ☕💻
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=ronizada&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub de Roni"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronizada&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas por Roni"
-  />
-
-</div>
-
----
-
 ## 🔥 Sequência de contribuições
 
 <div align="center">
