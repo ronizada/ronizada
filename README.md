@@ -80,7 +80,7 @@ Aplicação distribuída utilizando FastAPI, PostgreSQL, NGINX, Docker e Loki.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ronizada-181717?style=for-the-badge&logo=github)](https://github.com/ronizada)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roni-herculano-55b6a8285/)
 
 </div>
 
