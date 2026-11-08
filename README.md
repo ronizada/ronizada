@@ -1,3 +1,4 @@
+ 
 <div align="center">
 
 # Olá, eu sou o Roni! 👋
@@ -13,10 +14,10 @@ Transformando ideias, café e alguns bugs em projetos reais. ☕💻
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação no IFES**
-- 🚀 Desenvolvendo projetos web, desktop e sistemas distribuídos
-- 💡 Gosto de criar protótipos, sistemas e soluções para problemas reais
-- 📚 Atualmente estudando **Java, Python, PostgreSQL e Docker**
-- 🛠️ Sempre aprendendo algo novo e melhorando meus projetos
+- 🚀 Desenvolvendo aplicações web, desktop e sistemas distribuídos
+- 💡 Interesse em desenvolvimento de software, arquitetura de sistemas e soluções interativas
+- 📚 Explorando tecnologias como **Java, Python, JavaScript, PostgreSQL e Docker**
+- 🛠️ Aprendendo na prática, construindo projetos e enfrentando novos desafios
 
 ---
 
@@ -24,9 +25,11 @@ Transformando ideias, café e alguns bugs em projetos reais. ☕💻
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,html,css,postgres,docker,git,github,vscode" />
 
 </div>
+
+**Outras tecnologias:** JavaFX • gRPC • Protocol Buffers • Socket.IO • Express • FastAPI • JDBC • JasperReports • NGINX
 
 ---
 
@@ -42,23 +45,37 @@ Transformando ideias, café e alguns bugs em projetos reais. ☕💻
 
 ## 🚀 Projetos em destaque
 
+### 🎮 Caroninhas Party
+
+Portal web de minijogos multiplayer em tempo real, com salas públicas e privadas, autenticação de usuários, avatares e gerenciamento de partidas.
+
+Conta com três modalidades: **Impostor**, **Quem Sou Eu?** e **Corrida do Conhecimento**, utilizando comunicação em tempo real por Socket.IO e uma API independente para gerenciamento de perguntas e respostas.
+
+`JavaScript` `Node.js` `Express` `Socket.IO` `PostgreSQL`
+
+### 📦 Achados & Perdidos Inteligente — JavaFX + gRPC
+
+Sistema desktop para gerenciamento de pessoas, objetos encontrados, compartimentos de armazenamento e devoluções, com regras de negócio, gráficos e relatórios.
+
+Evoluído para uma **arquitetura distribuída**, integrando um cliente JavaFX a um servidor Python por meio de gRPC e Protocol Buffers. Inclui consultas remotas ao PostgreSQL, verificação de conectividade e tratamento de falhas de comunicação.
+
+`Java` `JavaFX` `Python` `gRPC` `Protocol Buffers` `PostgreSQL` `JDBC` `JasperReports`
+
 ### 🛒 Code Store
 
-Painel para gerenciamento de módulos de bots do Discord em múltiplos servidores.
+Painel administrativo para gerenciamento de módulos de bots do Discord em múltiplos servidores.
+
+Permite organizar servidores, controlar módulos individualmente e administrar suas configurações por meio de uma interface web.
 
 `JavaScript` `PostgreSQL` `Discord`
 
-### 📦 Achados e Perdidos Inteligente
+### ☁️ Orquestração de Aplicação Distribuída
 
-Sistema desktop para cadastro, armazenamento e devolução de objetos encontrados.
+Projeto de infraestrutura distribuída, integrando uma API FastAPI, banco PostgreSQL, proxy reverso NGINX e centralização de logs com Loki.
 
-`Java` `JavaFX` `JDBC` `JasperReports`
+Os serviços são executados em contêineres e distribuídos entre máquinas virtuais, explorando comunicação entre serviços, persistência e orquestração.
 
-### ☁️ Sistema Distribuído
-
-Aplicação distribuída utilizando FastAPI, PostgreSQL, NGINX, Docker e Loki.
-
-`Python` `Docker` `FastAPI` `PostgreSQL` `NGINX`
+`Python` `FastAPI` `Docker` `PostgreSQL` `NGINX` `Loki`
 
 ---
 
