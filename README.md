@@ -29,7 +29,6 @@ Transformando ideias, café e alguns bugs em projetos reais. ☕💻
 
 </div>
 
-**Outras tecnologias:** JavaFX • gRPC • Protocol Buffers • Socket.IO • Express • FastAPI • JDBC • JasperReports • NGINX
 
 ---
 
